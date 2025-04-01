@@ -61,10 +61,6 @@ The main objective of this study is to investigate investor preferences toward m
 
 - `/Report`  
   Contains the final project report (PDF).
-- `/Data`  
-  Raw and processed survey data.
-- `/Visuals`  
-  Charts and graphs used in the analysis.
 - `/References`  
   Documentation of all cited sources.
 - `README.md`  
